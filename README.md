@@ -22,9 +22,10 @@ analyser les variations, proposer différentes (géo)visualisation sur la zone d
 Rappel : travail dans l’environnement de développement / logiciel / outil familier
 
 ### Description du jeu de données
-Source : .....
-Le jeu de données source a été retravaillé pour le TP (lien vers topo ou script des opérations effectuées,
-pour info – pas nécessaire de lire)
+
+Mutations issus du jeux de données de Demandes de Valeurs Foncières produit par la DGFiP sur une zone autour d'AVignon pour la période 2014-2023
+
+Le jeu de données source a été retravaillé pour le TP (Méthode : https://journals.openedition.org/cybergeo/39583 / Script R : https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Analyse-Donnees-DVF/blob/main/ScriptDVF1.html)
 
 | Champ | Description |
 | --- | --- |
