@@ -4,7 +4,7 @@
 
 Cette page centralise les contenus de la demi-journée d'intervention de l'AR9 "Géovisulisation" lors de l'école thématique 2025 du GdR MAGIS (Avignon).
 
-## Cours
+## Cours 📚
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/EcoleMAGIS/main/contenus/CM.PNG)
 
@@ -13,7 +13,7 @@ Cette page centralise les contenus de la demi-journée d'intervention de l'AR9 "
 https://docs.google.com/presentation/d/1DkPvZVDv6ZATgW1UAh62uqZzWE9Ff30nfmMVGPIz7P0/edit?usp=drive_web&ouid=116972543743949717826
 
 
-## TP
+## TP 💻
 
 A partir du jeu de données, proposer des facteurs qui influencent les prix des transactions immobilières,
 analyser les variations, proposer différentes (géo)visualisation sur la zone d’étude.
