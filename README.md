@@ -16,16 +16,16 @@ Cette page centralise les contenus de la demi-journée d'intervention de l'AR9 "
 
 ## TP 💻
 
-A partir du jeu de données, proposer des facteurs qui influencent les prix des transactions immobilières,
-analyser les variations, proposer différentes (géo)visualisation sur la zone d’étude.
+### Objectifs 
+A partir du jeu de données, proposer des facteurs qui influencent les prix des transactions immobilières, analyser les variations, proposer différentes (géo)visualisation sur la zone d’étude.
 
-Rappel : travail dans l’environnement de développement / logiciel / outil familier
+Rappel : travail dans l’environnement familier (logiciel, langage de programmation) 
 
 ### Description du jeu de données
 
 Mutations issus du jeux de données de Demandes de Valeurs Foncières produit par la DGFiP sur une zone autour d'AVignon pour la période 2014-2023
 
-Le jeu de données source a été retravaillé pour le TP (Méthode : https://journals.openedition.org/cybergeo/39583 / Script R : https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Analyse-Donnees-DVF/blob/main/ScriptDVF1.html)
+Le jeu de données source a été retravaillé pour le TP ([Méthode](https://journals.openedition.org/cybergeo/39583) / [Script R](https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Analyse-Donnees-DVF/blob/main/ScriptDVF1.html)
 
 | Champ | Description |
 | --- | --- |
