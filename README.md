@@ -45,10 +45,14 @@ Le jeu de données source a été retravaillé pour le TP ([Méthode de prépara
 
 
 ### Pistes de travail 
-* Graphiques exploratoires pour comprendre les données (histogramme de distribution, nuage de points,...)
+### Graphiques exploratoires pour comprendre les données (histogramme de distribution, nuage de points,...)
+### Agrégations spatiales
 * Agrégation statistiques (comptage, moyenne) dans des périmètres existants (sections cadastrales, IRIS, commmunes...)
 * Agrégation statistiques (comptage, moyenne) dans des mailles (scarreaux, hexagones,...)
-* Lissage spatial, carte de chaleur, interpolations spatiales,...
+### Géostatistiques
+* Lissage spatial
+* Carte de chaleur
+* Interpolations spatiales
 * Tester ce qu’on donne à comprendre = avec choix titre, indicateur, discrétisation (message
 cartographique) pour les cartes statiques ou les possibilité de filtrage, de mise en relation entre
 données/graphiques et carte pour les interfaces dynamiques
