@@ -23,9 +23,24 @@ Rappel : travail dans l’environnement de développement / logiciel / outil fam
 
 ### Description du jeu de données
 Source : .....
-Ici présentation claire, notamment liste des variables
 Le jeu de données source a été retravaillé pour le TP (lien vers topo ou script des opérations effectuées,
 pour info – pas nécessaire de lire)
+
+| Champ | Description |
+| --- | --- |
+| `id` |ID unique pour chaque mutation |
+| `annee` | Année de la mutation |
+| `nom_com` | Nom de la commmune de la mutation |
+| `typo_insee` | Type de commune selon l'INSEE|
+| `nom_dep` | Département de la mutation |
+| `nom_EPCI` | EPCI de la muation |
+| `type_EPCI` | Type d'EPCI |
+| `type` | Type de mutation (*maison* ou *appartement* |
+| `Prix` | Prix de la mutation |
+| `Surface` | Surface de la muation |
+| `Prix_m2` | Prix au m² de la mutation |
+| `latitude` | Latitude  de la mutation (4326) |
+| `longitude` | Longitude  de la mutation (4326) |
 
 
 ### Pistes de travail (pas nécessaire de les développer, voire simplement les énoncer à l’oral)
