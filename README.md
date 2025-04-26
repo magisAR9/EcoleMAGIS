@@ -25,7 +25,7 @@ Rappel : travail dans l’environnement familier (logiciel, langage de programma
 
 Mutations issus du jeux de données de Demandes de Valeurs Foncières produit par la DGFiP sur une zone autour d'AVignon pour la période 2014-2023
 
-Le jeu de données source a été retravaillé pour le TP ([Méthode](https://journals.openedition.org/cybergeo/39583) / [Script R](https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Analyse-Donnees-DVF/blob/main/ScriptDVF1.html)
+Le jeu de données source a été retravaillé pour le TP ([Méthode de préparation](https://journals.openedition.org/cybergeo/39583) / [Script R utilisé](https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Analyse-Donnees-DVF/blob/main/ScriptDVF1.html))
 
 | Champ | Description |
 | --- | --- |
@@ -44,13 +44,12 @@ Le jeu de données source a été retravaillé pour le TP ([Méthode](https://jo
 | `longitude` | Longitude  de la mutation (4326) |
 
 
-### Pistes de travail (pas nécessaire de les développer, voire simplement les énoncer à l’oral)
-– Tester la forme du maillage
-– Tester la position du maillage
-– Tester la taille de la maille (niveaux d’agrégation)
-– Tester ce qu’on “mesure” = quelle variable brute/dérivée/indicateur
-– Tester ce qu’on donne “à voir”/analyse visuelle = camaieu, viridis/magma/rainbow...
-– ? Tester ce qu’on donne à comprendre = avec choix titre, indicateur, discrétisation (message
+### Pistes de travail 
+– Graphiques exploratoires pour comprendre les données (histogramme de distribution, nuage de points,...)
+– Agrégation statistiques (comptage, moyenne) dans des périmètres existants (sections cadastrales, IRIS, commmunes...)
+– Agrégation statistiques (comptage, moyenne) dans des mailles (scarreaux, hexagones,...)
+– Lissage spatial, carte de chaleur, interpolations spatiales,...
+– Tester ce qu’on donne à comprendre = avec choix titre, indicateur, discrétisation (message
 cartographique) pour les cartes statiques ou les possibilité de filtrage, de mise en relation entre
 données/graphiques et carte pour les interfaces dynamiques
 
