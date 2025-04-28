@@ -4,7 +4,7 @@
 
 Cette page centralise les contenus de la demi-journée d'intervention de l'AR9 "Géovisulisation" lors de l'école thématique 2025 du GdR MAGIS (Avignon).
 
-## 📚 Cours 📚
+## 📚 Cours 
 
 <table align="center">
   <tr>
