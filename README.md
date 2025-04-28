@@ -7,7 +7,7 @@ Cette page centralise les contenus de la demi-journée d'intervention de l'AR9 "
 ## Cours 📚
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/magisAR9/EcoleMAGIS/main/contenus/CM.PNG" alt="alt text" width="600"/>
+  <img src="https://raw.githubusercontent.com/magisAR9/EcoleMAGIS/main/contenus/CM.PNG" alt="alt text" width="600" style="border: 1px solid black;"/>
 </p>
 
 ➡️ [support de cours](lien à venir)
