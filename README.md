@@ -16,12 +16,12 @@ Cette page centralise les contenus de la demi-journée d'intervention de l'AR9 "
 
 ## TP 💻
 
-### Objectifs 
+### Objectifs 🌎
 A partir du jeu de données, proposer des facteurs qui influencent les prix des transactions immobilières, analyser les variations, proposer différentes (géo)visualisation sur la zone d’étude.
 
 Rappel : travail dans l’environnement familier (logiciel, langage de programmation) 
 
-## Données du TP
+### Données du TP 💾
 
  Nom de la couche | Descriptif | Producteur | Année
 | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ Rappel : travail dans l’environnement familier (logiciel, langage de programma
 | Sectionscadastrales | Contours des sections cadastrales (9200) | DGFiP | 2024
 
 
-### Description du jeu de données
+### Description du jeu de données 📋
 
 Mutations issus du jeux de données de Demandes de Valeurs Foncières produit par la DGFiP sur une zone autour d'AVignon pour la période 2014-2023
 
@@ -54,7 +54,7 @@ Le jeu de données source a été retravaillé pour le TP ([Méthode de prépara
 | `longitude` | Longitude  de la mutation (4326) |
 
 
-### Pistes de travail 
+### Pistes de travail 🧭
 ### Graphiques exploratoires pour comprendre les données (histogramme de distribution, nuage de points,...)
 ### Agrégations spatiales
 * Agrégation statistiques (comptage, moyenne) dans des périmètres existants (sections cadastrales, IRIS, commmunes...)
@@ -68,7 +68,7 @@ cartographique) pour les cartes statiques ou les possibilité de filtrage, de mi
 données/graphiques et carte pour les interfaces dynamiques
 
 
-### Modalités pédagos
+### Modalités pédagos 🎓
 On passe dans les groupes pour lever le cas échéant des points de blocage, donner une impulsion à une
 personne bloquée (ou à l’inverse recentrer si une persone se perd à partir dans tous les sens ou à côté
 (par ex. chercher d’autres variables). Objectif est d’aider chacune/chacun d’aboutir à quelque chose en
