@@ -24,6 +24,7 @@ Cette page centralise les contenus de la demi-journée d'intervention de l'AR9 "
 
 ### Objectifs 🌎
 A partir du jeu de données, proposer des facteurs qui influencent les prix des transactions immobilières, analyser les variations, proposer différentes (géo)visualisation sur la zone d’étude.
+<br>
 **Votre objectif est de produire la carte la plus "robuste" selon vous à la fois en termes de données, de méthodes comme de représentation**
 
 Rappel : travail dans l’environnement familier (logiciel, langage de programmation) 
