@@ -1,4 +1,4 @@
-# Géovisualiser pour explorer la robustesse des données, explorer la robustesse des géovisualisations
+# Géovisualiser pour explorer la robustesse des données, explorer la robustesse des géovisualisations 🌎 📊
 ## Ecole méthodologique GdR MAGIS / 2025
 
 
