@@ -21,6 +21,16 @@ A partir du jeu de données, proposer des facteurs qui influencent les prix des 
 
 Rappel : travail dans l’environnement familier (logiciel, langage de programmation) 
 
+## Données du TP
+
+ Nom de la couche | Descriptif | Producteur | Année
+| --- | --- | --- | --- |
+| DVF |Mutations DVF (114756) | DGFiP | 2023
+| Departements |Contours des départements (5) | IGN | 2024
+| Communes |Contours des communes (648) | IGN | 2024
+| Sectionscadastrales | Contours des sections cadastrales (9200) | DGFiP | 2024
+
+
 ### Description du jeu de données
 
 Mutations issus du jeux de données de Demandes de Valeurs Foncières produit par la DGFiP sur une zone autour d'AVignon pour la période 2014-2023
