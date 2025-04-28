@@ -67,16 +67,16 @@ Le jeu de données source a été retravaillé pour le TP ([Méthode de prépara
 
 Vous pouvez travailer sur une multitude de dimensions des dynamiques du marché de l'immobilier résidentiel (prix, prix au m², volume des ventes, surfaces) et ceux  différetes échelles (locales, régionales) et selon différentes périodes (10 ans de mutations).
 
-### Graphiques exploratoires pour comprendre les données (histogramme de distribution, nuage de points,...)
-### Agrégations spatiales
+#### Graphiques exploratoires pour comprendre les données (histogramme de distribution, nuage de points,...)
+#### Agrégations spatiales
 * Agrégation statistiques (comptage, moyenne) dans des périmètres existants (sections cadastrales, IRIS, commmunes...)
 * Agrégation statistiques (comptage, moyenne) dans des mailles (scarreaux, hexagones,...)
-### Techniques cartographiques avancées
+#### Techniques cartographiques avancées
 * Lissage spatial
 * Carte de chaleur
 * Interpolations spatiales
 * Cartogrames (lissés)
-### Choix dans les couleurs, les méthodes de discrétisation
+#### Choix dans les couleurs, les méthodes de discrétisation
 
 
 
