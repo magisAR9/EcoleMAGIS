@@ -18,6 +18,7 @@ Cette page centralise les contenus de la demi-journée d'intervention de l'AR9 "
 
 ### Objectifs 🌎
 A partir du jeu de données, proposer des facteurs qui influencent les prix des transactions immobilières, analyser les variations, proposer différentes (géo)visualisation sur la zone d’étude.
+**Votre objectif est de produire la carte la plus "robuste" selon vous à la fois en termes de données, de méthodes comme de représentation**
 
 Rappel : travail dans l’environnement familier (logiciel, langage de programmation) 
 
@@ -55,17 +56,21 @@ Le jeu de données source a été retravaillé pour le TP ([Méthode de prépara
 
 
 ### Pistes de travail 🧭
+
+Vous pouvez travailer sur une multitude de dimensions des dynamiques du marché de l'immobilier résidentiel (prix, prix au m², volume des ventes, surfaces) et ceux  différetes échelles (locales, régionales) et selon différentes périodes (10 ans de mutations).
+
 ### Graphiques exploratoires pour comprendre les données (histogramme de distribution, nuage de points,...)
 ### Agrégations spatiales
 * Agrégation statistiques (comptage, moyenne) dans des périmètres existants (sections cadastrales, IRIS, commmunes...)
 * Agrégation statistiques (comptage, moyenne) dans des mailles (scarreaux, hexagones,...)
-### Géostatistiques
+### Techniques cartographiques avancées
 * Lissage spatial
 * Carte de chaleur
 * Interpolations spatiales
-* Tester ce qu’on donne à comprendre = avec choix titre, indicateur, discrétisation (message
-cartographique) pour les cartes statiques ou les possibilité de filtrage, de mise en relation entre
-données/graphiques et carte pour les interfaces dynamiques
+* Cartogrames (lissés)
+### Choix dans les couleurs, les méthodes de discrétisation
+
+
 
 
 ### Modalités pédagos 🎓
