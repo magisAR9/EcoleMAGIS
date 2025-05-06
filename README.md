@@ -34,10 +34,10 @@ Rappel : travail dans l’environnement familier (logiciel, langage de programma
 
  Nom de la couche | Descriptif | Producteur | Année | Téléchargement
 | --- | --- | --- | --- | --- |
-| DVF |Mutations DVF (114756) | DGFiP | 2023 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/blob/main/contenus/Communes.gpkg)
-| Departements |Contours des départements (5) | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/blob/main/contenus/Departements.gpkg)
-| Communes |Contours des communes (648) | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/blob/main/contenus/Communes.gpkg)
-| Sectionscadastrales | Contours des sections cadastrales (9200) | DGFiP | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/blob/main/contenus/contenus/Departements.gpkg)
+| DVF |Mutations DVF (114756) | DGFiP | 2023 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Communes.gpkg)
+| Departements |Contours des départements (5) | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Departements.gpkg)
+| Communes |Contours des communes (648) | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Communes.gpkg)
+| Sectionscadastrales | Contours des sections cadastrales (9200) | DGFiP | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/contenus/Departements.gpkg)
 
 
 ### Description du jeu de données 📋
