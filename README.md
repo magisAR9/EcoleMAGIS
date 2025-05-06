@@ -51,10 +51,8 @@ Le jeu de données source a été retravaillé pour le TP ([Méthode de prépara
 | `id` |ID unique pour chaque mutation |
 | `annee` | Année de la mutation |
 | `nom_com` | Nom de la commmune de la mutation |
-| `typo_insee` | Type de commune selon l'INSEE|
 | `nom_dep` | Département de la mutation |
 | `nom_EPCI` | EPCI de la muation |
-| `type_EPCI` | Type d'EPCI |
 | `type` | Type de mutation (*maison* ou *appartement* |
 | `Prix` | Prix de la mutation |
 | `Surface` | Surface de la muation |
