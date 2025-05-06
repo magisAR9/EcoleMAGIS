@@ -28,6 +28,14 @@ A partir du jeu de données, proposer des facteurs qui influencent les prix des 
 <br>
 **Votre objectif est de produire la carte la plus "robuste" selon vous à la fois en termes de données, de méthodes comme de représentation**
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/magisAR9/EcoleMAGIS/main/contenus/DVFpreview.PNG" alt="alt text" width="600"/>
+    </td>
+  </tr>
+</table>
+
 Rappel : travail dans l’environnement familier (logiciel, langage de programmation) 
 
 ### Données du TP 💾
