@@ -26,7 +26,7 @@ Cette page centralise les contenus de la demi-journée d'intervention de l'AR9 "
 A partir du jeu de données, proposer des facteurs qui influencent les prix des transactions immobilières, analyser les variations, proposer différentes (géo)visualisation sur la zone d’étude.
 <br>
 <br>
-**Votre objectif est de produire la carte la plus "robuste" selon vous à la fois en termes de données, de méthodes comme de représentation pour illustrer des logiques spatiales et territoriales du marché de l'immobilier résidentiel autour d'Avignon**
+**Votre objectif est de produire une ou plusieurs géovisualisations "robustes" (données, méthodes représentation) pour explorer des logiques spatiales et territoriales du marché de l'immobilier résidentiel autour d'Avignon**
 
 <table align="center">
   <tr>
