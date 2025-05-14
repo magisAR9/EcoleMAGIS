@@ -42,17 +42,17 @@ Rappel : travail dans l’environnement familier (logiciel, langage de programma
 
  Nom de la couche | Descriptif | Producteur | Année | Téléchargement
 | --- | --- | --- | --- | --- |
-| DVF |Mutations DVF (114756) | DGFiP | 2023 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/MutationsDVF.gpkg)
-| Departements |Contours des départements (5) | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Departements.gpkg)
-| Communes |Contours des communes (648) | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Communes.gpkg)
-| Sectionscadastrales | Contours des sections cadastrales (9200) | DGFiP | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Sections_cadastrales.gpkg)
+| DVF |Mutations DVF entre 2014 et 2023| DGFiP | 2023 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/MutationsDVF.gpkg)
+| Departements |Contours des départements de la zone | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Departements.gpkg)
+| Communes |Contours des communes de la zone | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Communes.gpkg)
+| Sectionscadastrales | Contours des sections cadastrales de la zone | DGFiP | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Sections_cadastrales.gpkg)
 
 
 ### Description du jeu de données 📋
 
-Mutations issus du jeux de données de Demandes de Valeurs Foncières produit par la DGFiP sur une zone autour d'AVignon pour la période 2014-2023
+Mutations immobilières (ventes des maisons et des appartements) issus du jeux de données de Demandes de Valeurs Foncières produit par la DGFiP sur une zone autour d'Avignon pour la période 2014-2023
 
-Le jeu de données source a été retravaillé pour le TP ([Méthode de préparation](https://journals.openedition.org/cybergeo/39583) / [Script R utilisé](https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Analyse-Donnees-DVF/blob/main/ScriptDVF1.html))
+Le jeu de données source a été préparé pour le TP ([Méthode de préparation](https://journals.openedition.org/cybergeo/39583) / [Script R utilisé](https://htmlpreview.github.io/?https://github.com/ESO-Rennes/Analyse-Donnees-DVF/blob/main/ScriptDVF1.html))
 
 | Champ | Description |
 | --- | --- |
