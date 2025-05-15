@@ -36,9 +36,9 @@ Analyser les variations des prix des transactions immobilières à partir du jeu
   </tr>
 </table>
 
-Rappel : travail dans l’environnement familier (logiciel, langage de programmation) 
+Rappel : le travail s'effectue dans l’environnement familier (logiciel, environnement de développement, langage de programmation) 
 
-### Données du TP 💾
+### Jeux de données 💾
 
  Nom de la couche | Descriptif | Producteur | Année | Téléchargement
 | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Rappel : travail dans l’environnement familier (logiciel, langage de programma
 | Sectionscadastrales | Contours des sections cadastrales de la zone | DGFiP | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Sections_cadastrales.gpkg)
 
 
-### Description du jeu de données 📋
+### Description du jeu de données DVF 📋
 
 Mutations immobilières (ventes des maisons et des appartements) issus du jeux de données de Demandes de Valeurs Foncières produit par la DGFiP sur une zone autour d'Avignon pour la période 2014-2023
 
@@ -71,27 +71,21 @@ Le jeu de données source a été préparé pour le TP ([Méthode de préparatio
 
 ### Pistes de travail 🧭
 
-Vous pouvez travailer sur une multitude de dimensions des dynamiques du marché de l'immobilier résidentiel (prix, prix au m², volume des ventes, surfaces) et ceux  différetes échelles (locales, régionales) et selon différentes périodes (10 ans de mutations).
+Vous pouvez travailler sur une multitude de dimensions des dynamiques du marché de l'immobilier résidentiel (prix, prix au m², volume des ventes, surfaces) et ce à différetes échelles (locales, régionales) et selon différentes périodes (10 ans de mutations).
 
 #### Graphiques exploratoires pour comprendre les données (histogramme de distribution, nuage de points,...)
 #### Agrégations spatiales
 * Agrégation statistiques (comptage, moyenne) dans des périmètres existants (sections cadastrales, IRIS, commmunes...)
-* Agrégation statistiques (comptage, moyenne) dans des mailles (scarreaux, hexagones,...)
+* Agrégation statistiques (comptage, moyenne) dans des mailles (carreaux, hexagones,...)
 #### Techniques cartographiques avancées
-* Lissage spatial
-* Carte de chaleur
-* Interpolations spatiales
-* Cartogrames (lissés)
+* Représentations continues
+  * Lissage spatial
+  * Carte de chaleur
+  * Interpolations spatiales
 #### Choix dans les couleurs, les méthodes de discrétisation
 
-
-
-
 ### Modalités pédagos 🎓
-On passe dans les groupes pour lever le cas échéant des points de blocage, donner une impulsion à une
-personne bloquée (ou à l’inverse recentrer si une persone se perd à partir dans tous les sens ou à côté
-(par ex. chercher d’autres variables). Objectif est d’aider chacune/chacun d’aboutir à quelque chose en
-1h30 même si pas résultat concret, au moins la démarche.
-Après le TP, ouvrir l’accès à quelques réalisations, des stagiaires en premier lieu et que nous aurons
-testés. Dossier ouvert (pourra être alimenté après l’école).
+N'hésitez pas à nous solliciter pour, le cas échéant, lever des points de blocage, partager des idées ou identifier des pistes, solliciter un regard extérieur, ne pas partir dans tous les sens.
+Notre objectif est d’aider chacun·e à aboutir à quelque chose en 1h30 même a minima sur la démarche, dans l'idéal à une production concrète.
+Après le TP, nous souhaitons collecter les réalisations afin d'alimenter un dossier qui compile les pistes d'analyse "robustes" d'un jeu de données type DVF.
 
