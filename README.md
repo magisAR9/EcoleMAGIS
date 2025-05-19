@@ -91,4 +91,4 @@ Après le TP, nous souhaitons collecter les réalisations afin d'alimenter un do
 
 1. Exporter ou faire une capture d'écran de votre géovisualisation
 2. [Uploader votre géovisulisation](https://fr.imgbb.com)
-3. [Partager l'URL de votre géovisualisation dans ce document en ligne]("https://mensuel.framapad.org/p/partage-geovizdvf-ael2?lang=fr)
+3. [Partager l'URL de votre géovisualisation dans ce document en ligne](https://mensuel.framapad.org/p/partage-geovizdvf-ael2?lang=fr)
