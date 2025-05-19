@@ -44,6 +44,7 @@ Rappel : le travail s'effectue dans l’environnement familier (logiciel, enviro
 | --- | --- | --- | --- | --- |
 | DVF |Mutations DVF entre 2014 et 2023| DGFiP | 2023 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/MutationsDVF.gpkg)
 | Departements |Contours des départements de la zone | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Departements.gpkg)
+| EPCI |Contours des EPCI de la zone | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/EPCI.gpkg)
 | Communes |Contours des communes de la zone | IGN | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Communes.gpkg)
 | Sectionscadastrales | Contours des sections cadastrales de la zone | DGFiP | 2024 | [Télécharger](https://github.com/magisAR9/EcoleMAGIS/raw/main/contenus/Sections_cadastrales.gpkg)
 
