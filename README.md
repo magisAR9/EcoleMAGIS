@@ -56,7 +56,6 @@ Le jeu de données source a été préparé pour le TP ([Méthode de préparatio
 
 | Champ | Description |
 | --- | --- |
-| `id` |ID unique pour chaque mutation |
 | `annee` | Année de la mutation |
 | `nom_com` | Nom de la commmune de la mutation |
 | `nom_dep` | Département de la mutation |
