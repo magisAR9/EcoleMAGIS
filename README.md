@@ -89,3 +89,7 @@ N'hésitez pas à nous solliciter pour, le cas échéant, lever des points de bl
 Notre objectif est d’aider chacun·e à aboutir à quelque chose en 1h30 même a minima sur la démarche, dans l'idéal à une production concrète.
 Après le TP, nous souhaitons collecter les réalisations afin d'alimenter un dossier qui compile les pistes d'analyse "robustes" d'un jeu de données type DVF.
 
+1. Exporter ou faire une capture d'écran de votre géovisualisation
+2. [Uploader cette image](https://fr.imgbb.com/)
+3. [Partager l'URL dans ce document en ligne](https://mensuel.framapad.org/p/partage-geovizdvf-ael2?lang=fr)
+
