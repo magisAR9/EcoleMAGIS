@@ -88,7 +88,7 @@ Vous pouvez travailler sur une multitude de dimensions des dynamiques du marché
 N'hésitez pas à nous solliciter pour, le cas échéant, lever des points de blocage, partager des idées ou identifier des pistes, solliciter un regard extérieur, ne pas partir dans tous les sens.
 Notre objectif est d’aider chacun·e à aboutir à quelque chose en 1h30 même a minima sur la démarche, dans l'idéal à une production concrète.
 Après le TP, nous souhaitons collecter les réalisations afin d'alimenter un dossier qui compile les pistes d'analyse "robustes" d'un jeu de données type DVF.
-
+a
 1. Exporter ou faire une capture d'écran de votre géovisualisation
-2. [Uploader votre géovisulisation](https://fr.imgbb.com)
+2. [Uploader votre géovisualisation](https://fr.imgbb.com)
 3. [Partager l'URL de votre géovisualisation dans ce document en ligne](https://mensuel.framapad.org/p/partage-geovizdvf-ael2?lang=fr)
