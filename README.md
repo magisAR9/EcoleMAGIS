@@ -2,7 +2,7 @@
 ## Ecole méthodologique GdR MAGIS / 2025
 
 
-Cette page centralise les contenus (cours et TP) du cours de l'AR9 "Géovisualisation" lors de **l'école méthodologique 2025 du GdR MAGIS** (Avignon).
+Cette page centralise les contenus du cours de l'AR9 "Géovisualisation" lors de **l'école méthodologique 2025 du GdR MAGIS** (Avignon).
 
 ## 📚 Cours 
 
