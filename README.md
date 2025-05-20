@@ -28,6 +28,8 @@ Analyser les variations des prix des transactions immobilières à partir du jeu
 <br>
 **Votre objectif est de produire une ou plusieurs géovisualisations "robustes" (données, méthodes, représentation) pour explorer des logiques spatiales et territoriales du marché de l'immobilier résidentiel autour d'Avignon**.
 
+**Explorer, analyser et représenter aux "meilleure" échelles**
+
 <table align="center">
   <tr>
     <td>
