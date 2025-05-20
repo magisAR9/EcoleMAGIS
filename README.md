@@ -16,7 +16,7 @@ Cette page centralise les contenus (cours et TP) de la demi-journée d'intervent
 
 
 
-➡️ [support de cours](lien à venir)
+➡️ [support de cours](https://docs.google.com/presentation/d/1DkPvZVDv6ZATgW1UAh62uqZzWE9Ff30nfmMVGPIz7P0/edit)
 
 <hr>
 
